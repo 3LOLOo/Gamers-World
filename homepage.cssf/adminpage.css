@@ -1,0 +1,29 @@
+body {
+    font-family: Tahoma,arial;
+
+}
+
+  /* ------------------------------------------- */
+.picker-container{
+    width: 400px;
+    position: absolute;
+    top: 175px;
+    left: 490px;
+    padding: 10px;
+    background-color:#620ac7;
+    border-radius: 4px;
+    text-align: center;
+    font-size: 40px;
+    font-family: cursive;
+    
+}
+.picker{
+    width: 400px;
+    margin: 400px auto;
+    padding: 20px;
+    background-color:#620ac7;
+    border-radius: 4px;
+    text-align: center;
+    font-size: 40px;
+    font-family: cursive;
+}

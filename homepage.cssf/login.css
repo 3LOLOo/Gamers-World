@@ -1,0 +1,80 @@
+body {
+    background-image: url("../homepage.cssf/WhatsApp\ Image\ 2021-08-19\ at\ 3.22.08\ AM\ \(1\).jpeg");
+    background-size: cover;
+    background-position: 0 7%;
+  }
+  form {
+    height: 55%;
+    width: 20%;
+    position: relative;
+    left: 40%;
+  }
+  .l {
+    font-size: xx-large;
+    font-family: cursive;
+    font-weight: bold;
+    position: absolute;
+    top: 7%;
+    left: 38%;
+    color: white;
+  }
+  .e {
+    width: 70%;
+    height: 12%;
+    background: none;
+    border: none;
+    outline: none;
+    border-bottom: white solid 2px;
+    color: white;
+    position: absolute;
+    top: 27%;
+    left: 15%;
+  }
+  .p {
+    width: 70%;
+    height: 12%;
+    background: none;
+    border: none;
+    outline: none;
+    border-bottom: white solid 2px;
+    color: white;
+    position: absolute;
+    top: 44%;
+    left: 15%;
+  }
+  ::placeholder {
+    color: white;
+  }
+  .s {
+    border-radius: 20px;
+    width: 70%;
+    height: 9%;
+    position: absolute;
+    top: 68%;
+    left: 15%;
+    background-color: white;
+    border: none;
+    color: black;
+    cursor: pointer;
+  }
+  .s:hover {
+    background-color: rgb(172, 172, 172);
+  }
+  form span {
+    position: absolute;
+    top: 83%;
+    left: 17%;
+    color: white;
+    font-size: 80%;
+  }
+  form a {
+    text-decoration: none;
+    position: absolute;
+    top: 82.7%;
+    left: 62%;
+    color: white;
+    font-size: 90%;
+  }
+  a:hover {
+    color: rgb(90, 88, 90);
+  }

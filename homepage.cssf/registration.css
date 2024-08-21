@@ -1,0 +1,138 @@
+body {
+    background-image: url("../homepage.cssf/2399954.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 0 10%;
+    background-color: black;
+  }
+  form {
+    width: 22%;
+    background-size: 20%;
+    display: inline-block;
+    position: relative;
+    margin-top: 7%;
+    left: 15%;
+  }
+  .register {
+    font-size: xx-large;
+    font-family: cursive;
+    font-weight: bold;
+    position: absolute;
+    top: 17%;
+    left: 20%;
+    color: white;
+    z-index: 1000;
+  }
+  .first {
+    width: 70%;
+    height: 12%;
+    background: none;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    outline: none;
+    border-bottom-color: white;
+    color: white;
+    position: absolute;
+    top: 100%;
+    left: 15%;
+  }
+  .last {
+    width: 70%;
+    height: 12%;
+    background: none;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    outline: none;
+    border-bottom-color: white;
+    color: white;
+    position: absolute;
+    top: 130%;
+    left: 15%;
+  }
+  .pass {
+    width: 70%;
+    height: 12%;
+    background: none;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    outline: none;
+    border-bottom-color: white;
+    color: white;
+    position: absolute;
+    top: 160%;
+    left: 15%;
+  }
+  .confirmpass {
+    width: 70%;
+    height: 12%;
+    background: none;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    outline: none;
+    border-bottom-color: white;
+    color: white;
+    position: absolute;
+    top: 190%;
+    left: 15%;
+  }
+  .email {
+    width: 70%;
+    height: 12%;
+    background: none;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    outline: none;
+    border-bottom-color: white;
+    color: white;
+    position: absolute;
+    top: 220%;
+    left: 15%;
+  }
+  .birth {
+    font-size: 90%;
+    font-family: sans-serif;
+    font-weight: bold;
+    position: absolute;
+    top: 255%;
+    left: 15%;
+    color: white;
+  }
+  .day {
+    position: absolute;
+    top: 280%;
+    left: 18%;
+  }
+  .month {
+    position: absolute;
+    top: 280%;
+    left: 36%;
+  }
+  .year {
+    position: absolute;
+    top: 280%;
+    left: 58%;
+  }
+  ::placeholder {
+    color: white;
+  }
+  .submit {
+    border-radius: 20px;
+    width: 70%;
+    height: 25%;
+    padding: 1%;
+    position: absolute;
+    top: 320%;
+    left: 15%;
+    background-color: white;
+    border: none;
+    color: black;
+    cursor: pointer;
+  }
+  .submit:hover {
+    background-color: rgb(172, 172, 172);
+  }
